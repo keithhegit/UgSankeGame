@@ -1,0 +1,18 @@
+{
+  "name": "Ug贪吃蛇",
+  "short_name": "Ug贪吃蛇",
+  "description": "Ug游戏工作室出品 - 经典贪吃蛇游戏",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#4169E1",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "snake-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+} 
