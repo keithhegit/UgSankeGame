@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="snakeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9EFF00"/>
+      <stop offset="50%" style="stop-color:#00FF66"/>
+      <stop offset="100%" style="stop-color:#0066FF"/>
+    </linearGradient>
+  </defs>
+  <path d="M256 48C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48zm0 384c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z" fill="url(#snakeGradient)"/>
+  <g transform="translate(128, 128) scale(0.5)">
+    <path d="M256 48C141.1 48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48zm0 384c-97.2 0-176-78.8-176-176s78.8-176 176-176 176 78.8 176 176-78.8 176-176 176z" fill="url(#snakeGradient)" opacity="0.3"/>
+  </g>
+  <!-- Snake Eyes -->
+  <circle cx="180" cy="180" r="24" fill="#000000"/>
+  <circle cx="180" cy="180" r="8" fill="#FFFFFF"/>
+  <!-- Snake Smile -->
+  <path d="M160 200c10 15 40 15 50 0" stroke="#000000" stroke-width="4" fill="none"/>
+</svg> 
